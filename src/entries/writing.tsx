@@ -76,11 +76,7 @@ export const post70923 = `
 June 9, 2023
 <br>
 <br>
-To write this article, I spent one night pretending to be like Kiko. 
-I went home after work and relaxed and then wrote from 11pm until 2am— 
-I say wrote, but it is happening now, I am writing now, at 12:43am and 
-I know almost without a doubt that Kiko is also working at 12:43am, now 
-12:44, on a thursday night, painting.
+Test 2
 <br>
 <br>
 ${image(img71123.default, 430, 350)}
@@ -92,7 +88,7 @@ export const post71423 = `
 <br>
 ++++++Friday, July 14, 2023 + noonish, studio+++++++
 <br>
-not sure wht i'll get done or hoq to spell.
+Welcome
 <br>
 thnks for listening :)
 <br>
