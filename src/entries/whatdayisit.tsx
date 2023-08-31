@@ -9,14 +9,14 @@ const postsData = {
     //   "date": 71023,
     //   "post": post71023,
     // },
-    {
-      "date": 70923,
-      "post": post70923,
-    },
-    {
-      "date": 71423,
-      "post": post71423,
-    },
+    //{
+   //   "date": 70923,
+   //   "post": post70923,
+   // },
+    //{
+    //  "date": 71423,
+    //  "post": post71423,
+   // },
   ]
 }
 
