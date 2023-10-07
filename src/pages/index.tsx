@@ -2,6 +2,8 @@ import * as React from "react"
 import type { HeadFC, PageProps } from "gatsby"
 import postsData from '../entries/whatdayisit'
 import { useState, useEffect, useRef } from "react"
+import styled from "styled-components";
+
 const pageStyles = {
   backgroundColor: "white",
   color: "#595656",
@@ -26,56 +28,74 @@ const fixedHeaderStyles = {
   filter: "drop-shadow(10px 10px 4px #4444dd)",
 }
 
-const nameStyles= {
-  textAlign: 'right',
-};
+const FixedHeader = styled.div`
+  color: #d6140d;
+  font-family: courier, courier new, serif;
+  font-size: 16px;
+  border: 1px solid #d6140d;
+  background-color: white;
+  padding: 10px;
+  display: inline-block;
+  position: fixed;
+  right: 40px;
+  height: 20px;
+  width: 70px;
+  overflow-y: hidden;
+  filter: drop-shadow(10px 10px 4px #4444dd);
+`;
 
-const postStyles = {
-  marginBottom: 20,
-  lineHeight: 1.5,
-  fontSize: 16,
-  fontWeight: 200,
-  paddingBottom: 40,
-}
+const NameDiv = styled.div`
+  text-align: right;
+`;
 
-// TODO: add mobile padding
-const postContainerStyles = {
-  maxWidth: "650px",
-  margin: "40px 40px 40px 100px",
-};
+const PostDiv = styled.div`
+  margin-bottom: 20px;
+  line-height: 1.5;
+  font-size: 1rem;
+  font-weight: 200;
+  padding-bottom: 40px;
 
-const linkStyle = {
-  color: "#d6140d",
-  fontWeight: "bold",
-  fontSize: 16,
-  verticalAlign: "5%",
-}
+`;
+const PostContainer = styled.div`
+  max-width: 650px;
+  margin: 40px 40px 40px 100px;
 
-const convertStringToHTML = (htmlString: string) => {
-  const parser = new DOMParser();
-  const html = parser.parseFromString(htmlString, 'text/html');
-
-  return html.body;
-}
-
-const Divider = () => {
-
-  const dividerStyle = {
-    content:"=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-",
-    width:"100%",
-    overflow:"hidden",
-    display: "block",
-    fontSize:"10px",
-    whiteSpace:"nowrap",
-    fontFamily: "Georgia, serif",
-    fontSize: 16,
+  @media (max-width: 700px) {
+    margin: 40px 40px 40px 40px;
   }
 
-  const char = '=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=';
-  return (
-    <div style={dividerStyle}>{char}</div>
-  )
-}
+  @media (max-width: 375px) {
+    margin: 40px 40px 40px 40px;
+    max-width: 320px;
+
+  }
+`;
+
+// const linkStyle = {
+//   color: "#d6140d",
+//   fontWeight: "bold",
+//   fontSize: "16px",
+//   verticalAlign: "5%",
+// }
+
+// const convertStringToHTML = (htmlString: string) => {
+//   const parser = new DOMParser();
+//   const html = parser.parseFromString(htmlString, 'text/html');
+
+//   return html.body;
+// }
+
+const DividerDiv = styled.div`
+  width: 100%;
+  overflow: hidden;
+  display: block;
+  font-size: 14px;
+  white-space: nowrap;
+  font-family: Georgia, serif;
+`;
+
+const char = '=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=';
+
 
 const IndexPage: React.FC<PageProps> = () => {
 
@@ -99,24 +119,21 @@ const IndexPage: React.FC<PageProps> = () => {
       <style dangerouslySetInnerHTML={{__html: `
         html { background-color: ${pageStyles.backgroundColor};}
       `}} />
-      <div onMouseOver={boxMouseOverHandler} onMouseOut={boxMouseOutHandler} style={fixedHeaderStyles}>
-        <div style={nameStyles}>contact</div>
+      <FixedHeader onMouseOver={boxMouseOverHandler} onMouseOut={boxMouseOutHandler}>
+        <NameDiv>contact</NameDiv>
         <p></p>
         <div><a href="mailto:sayhey.adi@gmail.com">sayhey.adi@gmail.com</a></div>
-
-      </div>
-      <div style={postContainerStyles}>
+      </FixedHeader>
+      <PostContainer>
         {reverseChronPosts.map(post => {
-
         return( 
-        <div style={postStyles} >
-          <Divider/>
-
+        <PostDiv>
+          <DividerDiv>{char}</DividerDiv>
           <p dangerouslySetInnerHTML={{__html: post.post}}/>
-        </div>
+        </PostDiv>
         )
         })}
-      </div>
+      </PostContainer>
     </main>
   )
 }
