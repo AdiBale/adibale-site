@@ -1,10 +1,10 @@
-import { post91923, post10423 } from './writing';
+import { post91923, post10423, post102923 } from './writing';
 
 const postsData = {
   posts: [
     {
       "date": 91923,
-      "post": post91923 ,
+      "post": post91923,
     },
     {
       "date": 10423,
