@@ -1,5 +1,6 @@
 import * as img91923 from '../images/newPaintingsRelease2.jpg';
 import * as img91923_2 from '../images/newPaintingsRelease.jpg';
+import * as img102923 from '../images/newImageThatWeWillUpload.jpg';
 
 /*This is the image block
 When you want to add an image, paste in ${image(<IMAGE>, 400, 350)}
@@ -65,4 +66,12 @@ I am considering another studio sale this fall. Somehow I doubt that I will sell
   <br>
   <br>
 "
+`;
+
+export const post102923 = `
+<br>
+Hello hello
+<br>
+${image(img102923, 100, 100)}
+<br> 
 `;
