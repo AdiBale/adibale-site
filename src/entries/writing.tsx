@@ -67,11 +67,3 @@ I am considering another studio sale this fall. Somehow I doubt that I will sell
   <br>
 "
 `;
-
-export const post102923 = `
-<br>
-Hello hello
-<br>
-${image(img102923, 100, 100)}
-<br> 
-`;
