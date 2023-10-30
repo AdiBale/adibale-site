@@ -10,6 +10,10 @@ const postsData = {
       "date": 10423,
       "post": post10423,
     },
+    {
+      "date": 102923,
+      "post": post102923,
+    },
   ]
 }
 
