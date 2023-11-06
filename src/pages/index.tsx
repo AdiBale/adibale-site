@@ -6,7 +6,7 @@ import styled from "styled-components";
 
 const pageStyles = {
   backgroundColor: "#ffffff",
-  color: "#2ea534",
+  color: "#134F5C",
   fontFamily: "sans-serif",
   margin: 0,
   padding: 0,
@@ -31,29 +31,33 @@ const PageContainer = styled.div`
 `;
 
 const Header = styled.div`
-color: #595656;
-font-family: sans-serif;
-font-size: 19px;
-padding-top: 40px;
-height: calc(100vh - 50px);
-max-width: 310px;
-overflow-y: scroll;
-line-height: 1.2;
+  color: #741B47;
+  font-family: sans-serif;
+  font-size: 20px;
+  padding-top: 40px;
+  height: calc(100vh - 50px);
+  max-width: 310px;
+  overflow-y: scroll;
+  line-height: 1.2;
 
-position: sticky;
-top:0;
+  position: sticky;
+  top:0;
 
-@media (max-width: 450px) {
-  font-size: 15px;
-  width: auto;
-  max-width: 100%;
-  max-height: 50px;
-  background-color: #ffffff;
-  position: unset;
-  padding: 10px;
-  margin: 20px;
-}`
-;
+  @media (max-width: 450px) {
+    font-size: 15px;
+    width: auto;
+    max-width: 100%;
+    max-height: 80px;
+    background-color: #ffffff;
+    position: unset;
+    padding: 10px;
+    margin: 20px;
+  }
+
+  ::-webkit-scrollbar {
+    display: none;
+  }
+`;
 
 const OverlayStyle = styled.div`
 
@@ -76,7 +80,7 @@ const OverlayStyle = styled.div`
 const PostDiv = styled.div`
   margin-bottom: 20px;
   line-height: 1.2;
-  font-size: 16px;
+  font-size: 18px;
   padding-bottom: 40px;
 
   @media (max-width: 450px) {
@@ -86,13 +90,13 @@ const PostDiv = styled.div`
 
 const PostContainer = styled.div`
   width: 55%;
-  max-width: 560px;
+  max-width: 760px;
   min-width: 100px;
   margin: 40px 40px 40px 40px;
 
 
   @media (max-width: 450px) {
-    margin: 10px 30px 20px 30px;
+    margin: 0px 30px 20px 30px;
     max-width: 100%;
     width:auto;
 
@@ -128,6 +132,10 @@ const IndexPage: React.FC<PageProps> = () => {
   };
 
   const reverseChronPosts = postsData.posts.reverse();
+
+
+  const intro = (<div>Hi ❦ My name is Addison Bale.<br/> Welcome to my blog :]<br/><br/></div>);
+
   return (
     <main style={pageStyles}>
       <style dangerouslySetInnerHTML={{__html: `
@@ -136,7 +144,8 @@ const IndexPage: React.FC<PageProps> = () => {
       <PageContainer>
         <div style={headerDivStyles}>
         <Header>
-            <div>Hi :] My name is Addison Bale. 
+            <div>
+              {intro}
             I was born in 1994 and raised
             in New York City. 
             (A poet who I admire, Christopher
@@ -220,4 +229,4 @@ const IndexPage: React.FC<PageProps> = () => {
 
 export default IndexPage
 
-export const Head: HeadFC = () => <title>Home Page</title>
+export const Head: HeadFC = () => <title>Addison Bale</title>
