@@ -44,10 +44,10 @@ const Header = styled.div`
   top:0;
 
   @media (max-width: 450px) {
-    font-size: 15px;
+    font-size: 16px;
     width: auto;
     max-width: 100%;
-    max-height: 80px;
+    max-height: 100px;
     background-color: #ffffff;
     position: unset;
     padding: 10px;
@@ -107,7 +107,7 @@ const DividerDiv = styled.div`
   width: 100%;
   overflow: hidden;
   display: block;
-  font-size: 14px;
+  font-size: 15px;
   white-space: nowrap;
   font-family: Georgia, serif;
 `;
