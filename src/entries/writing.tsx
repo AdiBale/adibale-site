@@ -1,7 +1,7 @@
 import * as img91923 from '../images/newPaintingsRelease2.jpg';
 import * as img91923_2 from '../images/newPaintingsRelease.jpg';
 import * as img102923 from '../images/newImageThatWeWillUpload.jpg';
-import * as img111323 from '../images/newImageThatWeWillUpload.jpg';
+import * as img111323 from '../images/graph-light.jpeg';
 
 /*This is the image block
 When you want to add an image, paste in ${image(<IMAGE>, 400, 350)}
@@ -87,6 +87,6 @@ The thing now keeping me from paint-time is poetry and applying to poetry things
 Yesterday, walking through Chinatown with a poet named DeShawn, who lives in Newark, doing the Rutgers MFA in poetry there, really nice person to  talk to. Saw the Omari Douglin/Lukas Quietsch show at Ramiken again. Then in the evening, spoke to Mailiis briefly about how to update my website and she asked if this painting i made in August would go up on it so here it is:
 <br>
 <br>
-${image(img111323, 100, 100)}
+${image(img111323, 730, 675)}
 <br> 
 `;
