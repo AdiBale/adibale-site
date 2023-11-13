@@ -15,6 +15,7 @@ import * as img<date> from '../images/<FILE NAME OF IMAGE>'
 
 export const image = (link: string, width:number, height:number) => `<img style="width:100%;height:100%;" src=${link} width=${width} height=${height} />`;
 export const audio = "to come";
+// <a href="put ur link in here addison">and this is the text that's highlighted</a>
 
 /***
  * POST TEMPLATE TO COPY & PASTE
