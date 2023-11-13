@@ -134,7 +134,7 @@ const IndexPage: React.FC<PageProps> = () => {
   const reverseChronPosts = postsData.posts.reverse();
 
 
-  const intro = (<div>Hi ❦ My name is Addison Bale.<br/> Welcome to my blog :]<br/><br/></div>);
+  const intro = (<div>Hi ✎ My name is Addison Bale.<br/> Welcome to my blog :]<br/><br/></div>);
 
   return (
     <main style={pageStyles}>
