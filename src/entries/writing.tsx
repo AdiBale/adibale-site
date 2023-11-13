@@ -70,7 +70,8 @@ I am considering another studio sale this fall. Somehow I doubt that I will sell
 "
 `;
 
-export const post111323 = `
+export const post111323 = 
+"
 <br>
 November 13, 2023 ~ 7:39 am ~ kitchen
 <br>
@@ -89,4 +90,5 @@ Yesterday, walking through Chinatown with a poet named DeShawn, who lives in New
 <br>
 ${image(img111323, 730, 675)}
 <br> 
+"
 `;
