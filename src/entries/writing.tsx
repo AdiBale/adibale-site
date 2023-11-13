@@ -1,6 +1,7 @@
 import * as img91923 from '../images/newPaintingsRelease2.jpg';
 import * as img91923_2 from '../images/newPaintingsRelease.jpg';
 import * as img102923 from '../images/newImageThatWeWillUpload.jpg';
+import * as img111323 from '../images/newImageThatWeWillUpload.jpg';
 
 /*This is the image block
 When you want to add an image, paste in ${image(<IMAGE>, 400, 350)}
@@ -67,4 +68,25 @@ I am considering another studio sale this fall. Somehow I doubt that I will sell
   <br>
   <br>
 "
+`;
+
+export const post111323 = `
+<br>
+November 13, 2023 ~ 7:39 am ~ kitchen
+<br>
+<br>
+Now that I have my paintings back from Vermont I'm engaged again: I can work again. Have several paintings I have/want to make before we go to Singapore in Feb (!!) Likewise, I have/want to sell some work badly for the money. The money debt-building phase of my practice is the fun phase and now I'm in the debt-paying phase which means taking any/all jobs. It's the anti-fun phase. Today, as everyday for the past month, I'll be on a job. Will have a studio day this friday and the weekend too. 
+<br>
+<br>
+Paintings to make before Singapore: 2 or 3 for mom's place (over the couch for sure, mb a tall skinny one for the hallway, mb some little ones for her bedroom). 1 large-ish painting over our bed for Xin and I (thinking something that has the energy of a tiger's skin! ;) ). And then i have in mind 3 or 4 paintings that pick up the flow from the "Nature is digital" pieces that I made for Vermont. 
+<br>
+<br>
+The thing now keeping me from paint-time is poetry and applying to poetry things, grad schools. Having met recently with an old advisor from Undergrad, the artist Mildred Beltré, she urged me to apply for more things, more grants, for whatever to get support and eyes on my work. Coincidentally, Day also sent me a link to the Hopper prize so I applied to that, submitted 10 paintings, mostly all totally recent. I feel morose whenever I apply for a grant. Here is my submission to the Hopper prize: <a href=https://docs.google.com/document/d/174AJ4-b88S5WBHmDn1KHdI3cW1zcWxbXfrgeQDTZjoA/edit?usp=sharing>Hopper prize paintings</a> .
+<br>
+<br>
+Yesterday, walking through Chinatown with a poet named DeShawn, who lives in Newark, doing the Rutgers MFA in poetry there, really nice person to  talk to. Saw the Omari Douglin/Lukas Quietsch show at Ramiken again. Then in the evening, spoke to Mailiis briefly about how to update my website and she asked if this painting i made in August would go up on it so here it is:
+<br>
+<br>
+${image(img111323, 100, 100)}
+<br> 
 `;
