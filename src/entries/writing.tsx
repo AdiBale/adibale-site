@@ -26,7 +26,7 @@ export const post<insert date> = `
 ********* <br>
 START WRITING HERE!
 <br>
-${image(img<date>, 100, 100)}
+${image(img<date>.default, 100, 100)}
 <br> *******
 `;
 
