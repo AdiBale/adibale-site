@@ -4,7 +4,7 @@ import * as img102923 from '../images/newImageThatWeWillUpload.jpg';
 import * as img111323 from '../images/graph-light.jpeg';
 
 /*This is the image block
-When you want to add an image, paste in ${image(<IMAGE>, 400, 350)}
+When you want to add an image, paste in ${image(<IMAGE>.default, 400, 350)}
 
 If you have a url to an image online, you can add it like so ${image('www.yourlink.com', 100, 100)}
 
@@ -15,8 +15,10 @@ import * as img<date> from '../images/<FILE NAME OF IMAGE>'
 */
 
 export const image = (link: string, width:number, height:number) => `<img style="width:100%;height:100%;" src=${link} width=${width} height=${height} />`;
-export const audio = "to come";
-// <a href="put ur link in here addison">and this is the text that's highlighted</a>
+
+/* Example of a link
+ <a href="put ur link in here addison">and this is the text that's highlighted</a>
+*/
 
 /***
  * POST TEMPLATE TO COPY & PASTE
@@ -82,7 +84,7 @@ Now that I have my paintings back from Vermont I'm engaged again: I can work aga
 Paintings to make before Singapore: 2 or 3 for mom's place (over the couch for sure, mb a tall skinny one for the hallway, mb some little ones for her bedroom). 1 large-ish painting over our bed for Xin and I (thinking something that has the energy of a tiger's skin! ;) ). And then i have in mind 3 or 4 paintings that pick up the flow from the "Nature is digital" pieces that I made for Vermont. 
 <br>
 <br>
-The thing now keeping me from paint-time is poetry and applying to poetry things, grad schools. Having met recently with an old advisor from Undergrad, the artist Mildred Beltré, she urged me to apply for more things, more grants, for whatever to get support and eyes on my work. Coincidentally, Day also sent me a link to the Hopper prize so I applied to that, submitted 10 paintings, mostly all totally recent. I feel morose whenever I apply for a grant. Here is my submission to the Hopper prize: <a href=https://docs.google.com/document/d/174AJ4-b88S5WBHmDn1KHdI3cW1zcWxbXfrgeQDTZjoA/edit?usp=sharing>Hopper prize paintings</a> .
+The thing now keeping me from paint-time is poetry and applying to poetry things, grad schools. Having met recently with an old advisor from Undergrad, the artist Mildred Beltré, she urged me to apply for more things, more grants, for whatever to get support and eyes on my work. Coincidentally, Day also sent me a link to the Hopper prize so I applied to that, submitted 10 paintings, mostly all totally recent. I feel morose whenever I apply for a grant. Here is my submission to the Hopper prize: <a href="https://docs.google.com/document/d/174AJ4-b88S5WBHmDn1KHdI3cW1zcWxbXfrgeQDTZjoA/edit?usp=sharing">Hopper prize paintings</a> .
 <br>
 <br>
 Yesterday, walking through Chinatown with a poet named DeShawn, who lives in Newark, doing the Rutgers MFA in poetry there, really nice person to  talk to. Saw the Omari Douglin/Lukas Quietsch show at Ramiken again. Then in the evening, spoke to Mailiis briefly about how to update my website and she asked if this painting i made in August would go up on it so here it is:
