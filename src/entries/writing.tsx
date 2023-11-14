@@ -78,7 +78,7 @@ export const post111323 = `
 November 13, 2023 ~ 7:39 am ~ kitchen
 <br>
 <br>
-Now that I have my paintings back from Vermont I'm engaged again: I can work again. Have several paintings I have/want to make before we go to Singapore in Feb (!!) Likewise, I have/want to sell some work badly for the money. The money debt-building phase of my practice is the fun phase and now I'm in the debt-paying phase which means taking any/all jobs. It's the anti-fun phase. Today, as everyday for the past month, I'll be on a job. Will have a studio day this friday and the weekend too. 
+Now that I have my paintings back from Vermont I'm engaged again: I can work again. Have several paintings I have/want to make before we go to Singapore in Feb (!!) Likewise, I have/want to sell some work badly for the money. The money debt-building phase of my practice is the fun phase and now I'm in the debt-paying phase which means taking any/all jobs. That phase. Will have a studio day again this friday and some weekend time too. 
 <br>
 <br>
 Paintings to make before Singapore: 2 or 3 for mom's place (over the couch for sure, mb a tall skinny one for the hallway, mb some little ones for her bedroom). 1 large-ish painting over our bed for Xin and I (thinking something that has the energy of a tiger's skin! ;) ). And then i have in mind 3 or 4 paintings that pick up the flow from the "Nature is digital" pieces that I made for Vermont. 
