@@ -108,22 +108,31 @@ export const post041224 = `
 <br>
 (April 12, 2024)
 <br>
+<br>
 Hello hello,
+<br>
 <br>
 after 2 months in Singapore I can say couple things in Chinese: "you stinky"(nî chòu chòu) "how much?"(duö shâo) and "Oh no, that's not my tea"(Aï yà! zhe bü shì wô de chá!). I made these small collages out of my chinese writing practice notes, my "Roaring Spring" pink notepad paper, and random other materials like hong bao envelope, receipts from Taiwan, and different rice papers. 
 <br>
+<br>
 ${image(img041224.default, 100, 100)}
 <br> 
+<br>
 ${image(img041224_2.default, 100, 100)}
 <br> 
+<br>
 ${image(img041224_3.default, 100, 100)}
 <br> 
+<br>
 ${image(img041224_4.default, 100, 100)}
 <br> 
+<br>
 ${image(img041224_5.default, 100, 100)}
 <br> 
+<br>
 ${image(img041224_6.default, 100, 100)}
 <br> 
+<br>
 ${image(img041224_7.default, 100, 100)}
 <br>
 <br>
