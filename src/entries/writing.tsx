@@ -104,6 +104,7 @@ ${image(img111323.default, 730, 675)}
 `;
 
 export const post041224 = `
+"
 <br>
 (April 12, 2024)
 <br>
@@ -131,4 +132,5 @@ Came back to these 2 paintings in the studio, both of which I finished back in F
 <br>
 ${image(img041224_8.default, 100, 100)}
 <br>
+"
 `;
