@@ -98,7 +98,7 @@ The thing now keeping me from paint-time is poetry and applying to poetry things
 Yesterday, walking through Chinatown with a poet named DeShawn, who lives in Newark, doing the Rutgers MFA in poetry there, really nice person to  talk to. Saw the Omari Douglin/Lukas Quietsch show at Ramiken again. Then in the evening, spoke to Mailiis briefly about how to update my website and she asked if this painting i made in August would go up on it so here it is:
 <br>
 <br>
-${image(img111323.default, 730, 675)}
+${image(img111323.default, 630, 575)}
 <br> 
 "
 `;
