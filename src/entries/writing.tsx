@@ -9,6 +9,7 @@ import * as img041224_4 from '../images/ppPArk.jpeg';
 import * as img041224_5 from '../images/shi.jpeg';
 import * as img041224_6 from '../images/shihua.jpeg';
 import * as img041224_7 from '../images/chi.jpeg';
+import * as img041224_8 from '../images/2WIP.jpg';
 
 /*This is the image block
 When you want to add an image, paste in ${image(<IMAGE>.default, 400, 350)}
@@ -120,4 +121,11 @@ ${image(img041224_5.default, 100, 100)}
 ${image(img041224_6.default, 100, 100)}
 <br> 
 ${image(img041224_7.default, 100, 100)}
+<br>
+<br>
+<br>
+Came back to these 2 paintings in the studio, both of which I finished back in February right before we left for Singapore, both of which I felt unsure about at the time.
+<br>
+${image(img041224_8.default, 100, 100)}
+<br>
 `;
