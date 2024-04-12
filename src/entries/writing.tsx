@@ -2,6 +2,13 @@ import * as img91923 from '../images/newPaintingsRelease2.jpg';
 import * as img91923_2 from '../images/newPaintingsRelease.jpg';
 import * as img102923 from '../images/newImageThatWeWillUpload.jpg';
 import * as img111323 from '../images/graph-light.jpeg';
+import * as img041224 from '../images/hongbao.jpeg';
+import * as img041224_2 from '../images/stall.jpeg';
+import * as img041224_3 from '../images/receipt.jpeg';
+import * as img041224_4 from '../images/ppPArk.jpeg';
+import * as img041224_5 from '../images/shi.jpeg';
+import * as img041224_6 from '../images/shihua.jpeg';
+import * as img041224_7 from '../images/chi.jpeg';
 
 /*This is the image block
 When you want to add an image, paste in ${image(<IMAGE>.default, 400, 350)}
@@ -101,5 +108,16 @@ Hello hello,
 after 2 months in Singapore I can say couple things in Chinese: "you stinky"(nî chòu chòu) "how much?"(duö shâo) and "Oh no, that's not my tea"(Aï yà! zhe bü shì wô de chá!). I made these small collages out of my chinese writing practice notes, my "Roaring Spring" pink notepad paper, and random other materials like hong bao envelope, receipts from Taiwan, and different rice papers. 
 <br>
 ${image(img041224.default, 100, 100)}
-<br> *******
+<br> 
+${image(img041224_2.default, 100, 100)}
+<br> 
+${image(img041224_3.default, 100, 100)}
+<br> 
+${image(img041224_4.default, 100, 100)}
+<br> 
+${image(img041224_5.default, 100, 100)}
+<br> 
+${image(img041224_6.default, 100, 100)}
+<br> 
+${image(img041224_7.default, 100, 100)}
 `;
