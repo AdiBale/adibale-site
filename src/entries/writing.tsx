@@ -5,7 +5,7 @@ import * as img111323 from '../images/graph-light.jpeg';
 import * as img041224 from '../images/hongbao.jpeg';
 import * as img041224_2 from '../images/stall.jpeg';
 import * as img041224_3 from '../images/receipt.jpeg';
-import * as img041224_4 from '../images/ppPArk.jpeg';
+import * as img041224_4 from '../images/pplPArk.jpeg';
 import * as img041224_5 from '../images/shi.jpeg';
 import * as img041224_6 from '../images/shihua.jpeg';
 import * as img041224_7 from '../images/chi.jpeg';
