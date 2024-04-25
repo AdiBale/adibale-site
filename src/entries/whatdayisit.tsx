@@ -15,7 +15,7 @@ const postsData = {
       "post": post111323,
     },  
     {
-      "date": 041224,
+      "date": 41224,
       "post": post041224,
     },
   ]
