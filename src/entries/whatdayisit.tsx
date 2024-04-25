@@ -1,4 +1,4 @@
-import { post91923, post10423, post102923, post111323 } from './writing';
+import { post91923, post10423, post102923, post111323, post041224 } from './writing';
 
 const postsData = {
   posts: [
