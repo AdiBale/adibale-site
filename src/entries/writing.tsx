@@ -143,3 +143,20 @@ ${image(img041224_8.default, 70, 100)}
 <br>
 "
 `;
+
+export const post062124 = `
+"
+<br>
+june 21, 2024 
+<br>
+marking the occasion/diary entry: 
+My poem "The Building" included in a group show at D.D.D.D. gallery called The Corner Show, curated by Jan Dickey. 
+<br>
+i love how it holds space as a framed object.
+<br>
+voilà !:
+<br>
+${image(img062124.default, 70, 100)}
+<br> 
+"
+`;
