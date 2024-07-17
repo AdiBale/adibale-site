@@ -11,6 +11,7 @@ import * as img041224_6 from '../images/shihua.jpeg';
 import * as img041224_7 from '../images/chi.jpeg';
 import * as img041224_8 from '../images/2WIP.jpg';
 import * as img062124 from '../images/img062124.jpg';
+import * as img071724 from '../images/statement.jpeg';
 
 /*This is the image block
 When you want to add an image, paste in ${image(<IMAGE>.default, 400, 350)}
@@ -164,4 +165,10 @@ voilà !:
 ${image(img062124.default, 70, 100)}
 <br> 
 "
+`;
+
+export const post071724 = `
+<br>
+${image(img071724.default, 611,791)}
+<br>
 `;
