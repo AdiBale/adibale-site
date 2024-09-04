@@ -1,6 +1,5 @@
 import * as img91923 from '../images/newPaintingsRelease2.jpg';
 import * as img91923_2 from '../images/newPaintingsRelease.jpg';
-import * as img102923 from '../images/newImageThatWeWillUpload.jpg';
 import * as img111323 from '../images/graph-light.jpeg';
 import * as img041224 from '../images/hongbao.jpeg';
 import * as img041224_2 from '../images/stall.jpeg';
@@ -12,7 +11,7 @@ import * as img041224_7 from '../images/chi.jpeg';
 import * as img041224_8 from '../images/2WIP.jpg';
 import * as img062124 from '../images/img062124.jpg';
 import * as img071724 from '../images/statement.jpeg';
-
+import * as img90324 from '../images/90324.png';
 /*This is the image block
 When you want to add an image, paste in ${image(<IMAGE>.default, 400, 350)}
 
@@ -24,7 +23,7 @@ import * as img<date> from '../images/<FILE NAME OF IMAGE>'
 2. Add it into your post like so ${image(img<date>, 100, 100)}
 */
 
-export const image = (link: string, width:number, height:number) => `<img style="width:100%;height:100%;" src=${link} width=${width} height=${height} />`;
+export const image = (link: string, width:string) => `<img style="width:${width};height:100%;" src=${link} />`;
 
 /* Example of a link
  <a href="put ur link in here addison">and this is the text that's highlighted</a>
@@ -47,9 +46,9 @@ ${image(img<date>.default, 100, 100)}
 
 export const post91923 = `
 [ Front & back flyer for my show in Vermont 👻 ! ]
-${image(img91923.default, 611,791)}
+${image(img91923.default, '100%')}
 <br>
-${image(img91923_2.default, 611,791)}
+${image(img91923_2.default, '100%')}
 <br>
 `;
 
@@ -100,7 +99,7 @@ The thing now keeping me from paint-time is poetry and applying to poetry things
 Yesterday, walking through Chinatown with a poet named DeShawn, who lives in Newark, doing the Rutgers MFA in poetry there, really nice person to  talk to. Saw the Omari Douglin/Lukas Quietsch show at Ramiken again. Then in the evening, spoke to Mailiis briefly about how to update my website and she asked if this painting i made in August would go up on it so here it is:
 <br>
 <br>
-${image(img111323.default, 630, 575)}
+${image(img111323.default, '90%')}
 <br> 
 "
 `;
@@ -117,31 +116,26 @@ Hello hello,
 after 2 months in Singapore I can say couple things in Chinese: "you stinky"(nî chòu chòu) "how much?"(duö shâo) and "Oh no, that's not my tea"(Aï yà! zhe bü shì wô de chá!). I made these small collages out of my chinese writing practice notes, my "Roaring Spring" pink notepad paper, and random other materials like hong bao envelope, receipts from Taiwan, and different rice papers. 
 <br>
 <br>
-${image(img041224.default, 70, 100)}
+${image(img041224.default, '45%')}
+${image(img041224_2.default, '40%')}
 <br> 
 <br>
-${image(img041224_2.default, 70, 100)}
+${image(img041224_3.default, '40%')}
+${image(img041224_4.default, '45%')}
 <br> 
 <br>
-${image(img041224_3.default, 70, 100)}
+${image(img041224_5.default, '40%')}
+${image(img041224_6.default, '40%')}
 <br> 
 <br>
-${image(img041224_4.default, 70, 100)}
-<br> 
-<br>
-${image(img041224_5.default, 70, 100)}
-<br> 
-<br>
-${image(img041224_6.default, 70, 100)}
-<br> 
-<br>
-${image(img041224_7.default, 70, 100)}
+${image(img041224_7.default, '90%')}
 <br>
 <br>
 <br>
 Came back to these 2 paintings in the studio, both of which I finished back in February right before we left for Singapore, both of which I felt unsure about at the time.
 <br>
-${image(img041224_8.default, 70, 100)}
+<br>
+${image(img041224_8.default, '100%')}
 <br>
 "
 `;
@@ -162,13 +156,41 @@ i love how it holds space as a framed object.
 voilà !:
 <br>
 <br>
-${image(img062124.default, 70, 100)}
+${image(img062124.default, '100%')}
 <br> 
 "
 `;
 
 export const post071724 = `
 <br>
-${image(img071724.default, 611,791)}
+${image(img071724.default, '180%')}
+<br>
+`;
+
+export const post90324 = `
+<br>
+<em>PRESS PRESS PRESS PRESS PRESS PRESS PRESS PRESS PRESS PRESS PRESS</em>
+<br>
+<br>
+<a href="https://twocoatsofpaint.com/2024/07/tight-corners-at-d-d-d-d.html
+">https://twocoatsofpaint.com/2024/07/tight-corners-at-d-d-d-d.html
+</a>
+<br>
+by Mackenzie Kirkpatrick
+<br>
+<br>
+&
+<br>
+<a href="https://whitehotmagazine.com/articles/show-curated-by-jan-dickey/6509
+">
+https://whitehotmagazine.com/articles/show-curated-by-jan-dickey/6509
+</a>
+<br>
+by Max Vélez
+<br>
+<br>
+:
+<br>
+${image(img90324.default, '100%')}
 <br>
 `;
