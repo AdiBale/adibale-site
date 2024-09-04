@@ -143,7 +143,7 @@ const IndexPage: React.FC<PageProps> = () => {
   const reverseChronPosts = postsData.posts.reverse();
 
 
-  const links = (<TopLinksDiv><a target="_blank" href="https://docs.google.com/document/d/1maonDt6l2owzDCWdIIYNJqxnLZn_KfNMFFtUVLvuDTY/edit?usp=sharing">Paintings, etc.</a><a target="_blank" href="entries/addison CV_Art01.pdf" >CV</a></TopLinksDiv>)
+  const links = (<TopLinksDiv><a target="_blank" href="https://docs.google.com/document/d/1maonDt6l2owzDCWdIIYNJqxnLZn_KfNMFFtUVLvuDTY/edit?usp=sharing">Paintings, etc.</a><a target="_blank" href="http://docs.google.com/gview?url=https://raw.githubusercontent.com/AdiBale/adibale-site/main/src/entries/addisonCV_Art01.pdf">CV</a></TopLinksDiv>)
   const intro = (<div>Hi ✎ My name is Addison Bale.<br/> Welcome to my blog :]<br/><br/>
   (1994) born and raised in NYC.
                  
