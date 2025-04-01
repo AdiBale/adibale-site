@@ -12,6 +12,13 @@ import * as img041224_8 from '../images/2WIP.jpg';
 import * as img062124 from '../images/img062124.jpg';
 import * as img071724 from '../images/statement.jpeg';
 import * as img90324 from '../images/90324.png';
+import * as img1024 from '../images/img1024.jpg';
+import * as tableVida from '../images/table&Vida.jpg';
+import * as t_commas from '../images/t_commas_pic.jpg';
+import * as install_wall from '../images/install_wall.jpg';
+import * as collages610 from '../images/collages6&10.jpg';
+import * as img032625 from '../images/img032625.png';
+
 /*This is the image block
 When you want to add an image, paste in ${image(<IMAGE>.default, 400, 350)}
 
@@ -28,9 +35,10 @@ export const image = (link: string, width:string) => `<img style="width:${width}
 /* Example of a link
  <a href="put ur link in here addison">and this is the text that's highlighted</a>
 */
+export const link = (link: string, content:string, style: string) => `<a style="color:#0000ee;${style}" href=${link} target="_blank">${content}</a>`;
 
 /***
- * POST TEMPLATE TO COPY & PASTE
+ * POST TEMPLATE TO COPY & PASTE 
  * 
  * 
 export const post<insert date> = `
@@ -194,3 +202,107 @@ by Max Vélez
 ${image(img90324.default, '100%')}
 <br>
 `;
+
+export const post1024 = `
+Delayed news : from back in October 2024 :: 
+<br>
+<br>
+Recipient of the Rema Hort Mann Foundation Emerging Artist Grant for 2024. 
+<br>
+more info on their ${link('https://www.instagram.com/p/DAlTBRhO6dC/','ig announcement','')}.
+<br>
+<br>
+Had sent them a portfolio of the recent "blueprint" paintings, my collages from Singapore, and older abstract work. 
+<br>
+<br>
+"Blueprint 4: Self-portrait as Homescape" was among the recently finished paintings I submitted in the portfolio for the grant application: 
+<br>
+<br>
+${image(img1024.default, '100%')}
+<br>
+<br>
+Acrylic, mixed-meida (including my poem "The Building," notebook pages, energy bill, rent statement, calligraphy paper, and sketch of Palmer Hayden's "Nous Quatre à Paris" from 1930,) and oil on wood panel. 30 x 40 inches. 2024.
+`;
+
+export const post020224 =`
+La Ciudad de México -  2 - 10 de febrero 
+<br>
+<br>
+día 6: 
+<br>
+La mañana pase en El Salado con Chel, Ada, Omar y un Italiano que se llama Vaso— en la tarde y noche, el opening de mi show: "Ariadne's Maze" en la Cantina Covadonga. Al fin, estoy exponiendo 4 obras: dos chiquitos cuadritos de Singapor y dos viejos abstractos de 2022. Fiesta, buena onda, mezcal y chelas con Lara, Juri, Virgil, Katya, Lucía hasta la madrugada. 
+<br>
+<br>
+día 7: crudo. 
+<br>
+gran desayuno en mercado el Chorrito con Ada. 
+<br>
+:
+<br>
+<strong>"Ariadne's Maze"</strong> se llama: 
+<br>
+<br>
+Off-site ${link('https://www.instagram.com/p/DFqXzhGSZCv/?img_index=2','group exhibition','')}
+ during CDMX’s art fairs week
+<br>
+Location: Cantina Covadonga, CDMX (${link('https://www.instagram.com/cantinacovadonga/','@cantinacovadonga','')})
+<br>
+Dates: February 5–9, 2025
+<br>
+Opening: February 5, 2025 | 6 PM
+<br>
+<br>
+Presented by:
+<br>
+• N/A/S/L (CDMX) ${link('https://www.instagram.com/nameagesexlocation/','@nameagesexlocation','')})
+
+<br>
+• Erratum (Berlin) ${link('https://www.instagram.com/erratum_gallery/','@erratum_gallery','')})
+
+<br>
+• Rudimento (Quito) ${link('https://www.instagram.com/rudimento_/','@rudimento_','')})
+
+<br>
+<br>
+<em>
+“Once we rejected the infinity of the spirit, it seems improbable to substitute it with a theology of production or desire.
+<br>
+[...]
+<br>
+Today we are living not in a society of similarity, but rather in a society of difference. And the society of difference is not a politeia but a market economy. If I live in a society in which everyone is specialized, and has his or her specific cultural identity, then I offer to others what I have and can do— and receive from them what they have or can do. These networks of exchange also function as networks of communication, as a rhizome. Freedom of communication is only a special case for the free market.”
+</em><br>
+-- Under the gaze of theory, Boris Groys 
+<br>
+<br>
+My works in the show : 
+<br>
+<br>
+${image(tableVida.default, '100%')}
+<br>
+<br>
+${image(t_commas.default, '100%')}
+<br>
+<br>
+${image(install_wall.default, '100%')}
+<br>
+<br>
+${image(collages610.default, '100%')}
+<br>
+<br>
+In a way, this show allowed me to showcase the turn in my practice from the abstract works that, in some cases, were edging toward asemic gestural painting to the current, text-focused collage works like these 2. I was so happy to show them in juxtaposition with my two larger works on the columns in the space. The red painting, "La Vida," and the dark purple/black painting, "Tilghman's Commas."
+`;
+
+export const post032625 = `
+March 26 :: wednesday : 
+<br>
+Hopscotch Translation published my essay : 
+<br><br>
+${link('https://hopscotchtranslation.com/2025/03/25/on-translation-codification-and-something-in-between/','On Translation, Codification, and Something in Between: Language in the Paintings of Martin Wong','font-family:sans-serif;font-size: 20px;font-weight: 500;color:#0000ee;')}
+
+<br>
+<br>
+Honestly, it's a dream come true to contribute to the legacy of Martin Wong. Mi amor <3
+<br>
+<br>
+${image(img032625.default, '100%')}
+`
