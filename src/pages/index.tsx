@@ -63,6 +63,7 @@ const Header = styled.div`
   ::-webkit-scrollbar {
     display: none;
   }
+
 `;
 
 const OverlayStyle = styled.div`
