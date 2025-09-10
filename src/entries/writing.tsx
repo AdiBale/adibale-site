@@ -18,6 +18,7 @@ import * as t_commas from '../images/t_commas_pic.jpg';
 import * as install_wall from '../images/install_wall.jpg';
 import * as collages610 from '../images/collages6&10.jpg';
 import * as img032625 from '../images/img032625.png';
+import * as ddddflyer from '../images/DDDDflyer.jpg';
 
 /*This is the image block
 When you want to add an image, paste in ${image(<IMAGE>.default, 400, 350)}
@@ -305,4 +306,15 @@ Honestly, it's a dream come true to contribute to the legacy of Martin Wong. Mi 
 <br>
 <br>
 ${image(img032625.default, '100%')}
+`
+
+
+export const post91025 = `
+
+Wednesday Sept. 10, 2025: 
+<br>
+my first solo show in NYC opens today. I feel excited and grateful. excited to knock a few back with friends on this wednesday night! and be in love with art. And again, be with people. 
+<br>
+<br>
+${image(ddddflyer.default, '100%')}
 `

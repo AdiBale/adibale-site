@@ -1,4 +1,4 @@
-import { post91923, post10423, post111323, post041224, post062124, post071724, post90324, post1024, post020224, post032625 } from './writing';
+import { post91923, post10423, post111323, post041224, post062124, post071724, post90324, post1024, post020224, post032625, post91025 } from './writing';
 
 const postsData = {
   posts: [
@@ -41,6 +41,10 @@ const postsData = {
     {
       "date": 32625,
       "post": post032625,
+    },
+    {
+      "date": 91025,
+      "post": post91025,
     },
   ]
 }
