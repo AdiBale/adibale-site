@@ -154,14 +154,14 @@ Here is where I update : b.
 readingpoetry aloud, to myself, 
 and in the studio where people
 visit and I am painting. 
-<br/>
+<br/><br/>
 More and more so, the act of 
 painting is a way to generate a 
 sonnet or 2. I do it to paint it, and 
 thereby, roleplay a monkish scribe
 in the cove, transcribing my own
 poems or half-poems in progress. 
-<br/>
+<br/><br/>
 So much life comes through it: I 
 don't discern the good from the bad
 of the poem/good from the bad of 
@@ -179,10 +179,12 @@ french too, mb chinese if I keep
 it up. Mb tagalog if I start, mb 
 arabic if I start. Mb portuguese 
 I would like, one day. 
-<br/>
+<br/><br/>
 Click on "paintings, etc." for images
 of art. 
+<br/>
 Click on "CV" for an image of my CV.
+<br/>
 Click on my email to reach out: <a href="mailto:sayhey.adi@gmail.com">sayhey.adi@gmail.com</a>
   </div>);
 
