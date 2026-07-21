@@ -181,6 +181,23 @@ arabic if I start. Mb portuguese
 I would like, one day. 
 <br/><br/>
 Click on my email to reach out: <a href="mailto:sayhey.adi@gmail.com">sayhey.adi@gmail.com</a>
+<br/><br/>
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+<br/><br/>
+"All of my father's friends were hunters 
+and he loved them dearly. He was the 
+first to put a rifle in my hand, when I was 
+fifteen, and he taught me how to pull the 
+trigger. I shot a stone and the bird flew 
+away. Why should poets kills birds? Poets 
+should kill cement." - <i>Descent into the 
+Water: Palestinian Notes from Arab Exile, </i>
+Mu'in Basisu (trans. Saleh Omar)
+<br/><br/>
+“If painting has the built-in ability to 
+reinvent itself. If it is like yogurt then let’s 
+pass on the culture.
+Nature is digital.” <i>- Notes from the Woodshed, Jack Whitten</i>
   </div>);
 
   return (
