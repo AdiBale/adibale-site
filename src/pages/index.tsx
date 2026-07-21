@@ -181,6 +181,9 @@ arabic if I start. Mb portuguese
 I would like, one day. 
 <br/><br/>
 Click on my email to reach out: <a href="mailto:sayhey.adi@gmail.com">sayhey.adi@gmail.com</a>
+    <br/>
+                  <a target="_blank" href="https://www.instagram.com/addison_bale/">@addison_bale</a>
+
 <br/><br/>
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 <br/><br/>
@@ -212,7 +215,6 @@ Nature is digital.” <i>- Notes from the Woodshed, Jack Whitten</i>
               {links}
               <br></br>
               {intro}
-              <a target="_blank" href="https://www.instagram.com/addison_bale/">@addison_bale</a>
               <br></br>
               <br></br>
               <br></br>
