@@ -180,11 +180,6 @@ it up. Mb tagalog if I start, mb
 arabic if I start. Mb portuguese 
 I would like, one day. 
 <br/><br/>
-Click on "paintings, etc." for images
-of art. 
-<br/>
-Click on "CV" for an image of my CV.
-<br/>
 Click on my email to reach out: <a href="mailto:sayhey.adi@gmail.com">sayhey.adi@gmail.com</a>
   </div>);
 
