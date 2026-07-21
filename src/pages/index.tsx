@@ -145,54 +145,45 @@ const IndexPage: React.FC<PageProps> = () => {
 
 
   const links = (<TopLinksDiv><a target="_blank" href="https://www.instagram.com/addison_bale/">Paintings, etc.</a><a target="_blank" href="http://docs.google.com/gview?url=https://raw.githubusercontent.com/AdiBale/adibale-site/main/src/entries/addisonCV_1.pdf">CV</a></TopLinksDiv>)
-  const intro = (<div>Hi ✎ My name is Addison Bale.<br/> Welcome to my blog :]<br/><br/>
-  (1994) born and raised in NYC.
-                 
-  I am an artist working within a 
-  mixed practice of mostly poetry
-  and painting, with particular attention
-  to painting as a source language 
-  and scene for poems; poems as 
-  a visual cue for, if not generator
-  of paintings. This duality of practice
-  reflects translation, a process
-  that is deeply embedded in my 
-  relationship to place, language, 
-  and art-making. Having had the
-  opportunity to learn French, then
-  Spanish, and volunteer briefly 
-  as an interpreter for people 
-  seeking asylum here in New York, 
-  I translate as a mode of entry into
-  my own practice and research, 
-  translating poetry from Spanish
-  into English, vice-versa, and 
-  translating text into painting. 
-
-  As an artist in residence with
-  the Lab Program in Mexico 
-  City, I developed a body of poems
-  that came out of a process of 
-  translation back and forth 
-  between US and Mexican 
-  authors, employing translated
-  quotes and interpolation to weave
-  original poems in Spanish, English,
-  and Spanglish. These poems were
-  published by the Lab Program in 
-  a chapbook called Galimatias. 
-  Some of the poems from this 
-  project were published in 
-  edition 09 of the Mexican literary
-  journal DiSONARE in 2023. 
-  Poems of mine have also been 
-  published by Everybody Press,
-  and No Dear. 
-
-  For my portfolio and/or other 
-  information about my studio and 
-  publications, feel free to reach out 
-  to me : <a href="mailto:sayhey.adi@gmail.com">sayhey.adi@gmail.com</a>
+  const intro = (<div>Welcome ✎ <br/>
+this site is a record of art &
+writing by....... Addison Bale 
+(me) :]<br/><br/>
+Here is where I update : b.
+1994 in NYC and in NYC still, 
+readingpoetry aloud, to myself, 
+and in the studio where people
+visit and I am painting. 
+<br/>
+More and more so, the act of 
+painting is a way to generate a 
+sonnet or 2. I do it to paint it, and 
+thereby, roleplay a monkish scribe
+in the cove, transcribing my own
+poems or half-poems in progress. 
+<br/>
+So much life comes through it: I 
+don't discern the good from the bad
+of the poem/good from the bad of 
+the painting. I mean, subject to 
+subject, style to style. Art here is not
+concerned with style. I like it to be 
+indefinite, because that's how it
+feels to me: uncertain but ongoing. 
+It's a way to be translating between
+the languages always, 
+and I mean that literally. (I also
+translate.) Spanish is gonna just 
+slip in here from time to time. Mb 
+french too, mb chinese if I keep 
+it up. Mb tagalog if I start, mb 
+arabic if I start. Mb portuguese 
+I would like, one day. 
+<br/>
+Click on "paintings, etc." for images
+of art. 
+Click on "CV" for an image of my CV.
+Click on my email to reach out: <a href="mailto:sayhey.adi@gmail.com">sayhey.adi@gmail.com</a>
   </div>);
 
   return (
