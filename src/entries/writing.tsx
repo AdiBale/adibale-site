@@ -19,6 +19,10 @@ import * as install_wall from '../images/install_wall.jpg';
 import * as collages610 from '../images/collages6&10.jpg';
 import * as img032625 from '../images/img032625.png';
 import * as ddddflyer from '../images/DDDDflyer.jpg';
+import * as img70126 from '../images/img70126.JPG';
+import * as img21426_1 from '../images/img21426_1.JPG';
+import * as img21426_2 from '../images/img21426_2.JPG';
+import * as img21426_3 from '../images/img21426_3.JPG';
 
 /*This is the image block
 When you want to add an image, paste in ${image(<IMAGE>.default, 400, 350)}
