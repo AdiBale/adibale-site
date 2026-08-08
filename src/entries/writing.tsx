@@ -318,3 +318,63 @@ my first solo show in NYC opens today. I feel excited and grateful. excited to k
 <br>
 ${image(ddddflyer.default, '100%')}
 `
+
+export const post21426 = `
+sun, Feb. 14 :: 2026 ::  [bout to be monday, feb. 15 : 2026]
+<br>
+Was 3 days-ish working on new poems for Eva, partly adapting from thread of poems had developed and then pulled from for the poem I wrote for Basie's new collection. That poem is called "Door to painterly." For Eva's reading, held yesterday in Nicola Vassell gallery with Eva, me, Penny Arcade, Ilka Scobie, and Moinque Erickson, I read 2 of Basie's poems on his behalf since he couldn't be there. Then I read these, regardless of finished or not finished: they were fresh: <br>
+${image(img21426_1.default, '100%')}<br>
+${image(img21426_2.default, '100%')}<br>
+${image(img21426_3.default, '100%')}
+`
+
+export const post32606 = `
+march 26 : 2026 :: just before midnight, in bed : 
+<br><br>
+....have noticed during these weeks of regular work at PS1 how my mental energy and thoughtfulness shifts throughout the day and it is a very consistent schedule. Here is the schedule: 
+<br><br>
+wake up 6:30 — break through initial grog to subtle lucidity. Calm but energizing thoughts that keep building as I stretch, then eat + coffee up until 8/8:20ish when I leave for PS1. Both biking and subway provide rushes of mental attention + spontaneity + runs of charging, clear, ambitious thoughts that rage through the commute, through til about 10:30 am (first union break!) and after which begins to mellow-out before lunch at 12:30. 
+<br><br>
+then, my thoughts almost totally quiet down and my attention to anything goes out the window.............<br>
+.............. Post-lunch my mind & body both (all) quiet down and I seem to empty out. naturally, this would be siesta time (if I was in Spain!) & Physically, my body feels less vigorous/willing between the hours of 1:30 & 3:30ish (that is, second union break!). My thoughts are almost wiped clean and what bubbles up is purely superficial, unattached, inconsistent and lusty. 
+<br><br>
+The following hours are a toss-up but generally I have an energy rebound going into the end of the work day and then it depends on where I go next. If I go straight home, my mind relaxes— everything relaxes; my body fatigued— and I find myself in a state of distraction/ aimlessness for hours possibly. Cooking dinner will likely be the only productive thing I do during this time. I'll go on instagram.com, pick up a book (and not read it), watch soccer highlights on youtube.com; talk to Xin. Typically I won't have an attention/motivation rebound until 10pmish, which is tough because I need to be going to sleep around 11:30ish to wake up at 6:30— but that last hour of the night can be good. 
+<br><br>
+If, however, I go straight to the studio right from PS1, then I have a higher chance of keeping the day going, the momentum going, and apply myself to something in the studio. I can slot my body back into a working mode and go with the flow of painting. maybe.
+`
+
+export const post52226 = `
+5.22.::2026 ...........
+<br><br>
+My dream(s) last night were all over the place........<br>
+...........,.<br>
+I was traveling, physically, but also psychologically visually zooming over parts of the world like a drone, observing landscapes & cityscapes, & as they were coming into focus, like Herzog's camera observing Kuwait from above the surface of the charred gulf water, & all the green lights & flashes of gunfire, beaming over & across like orange ribbons dragging on the air. I was traveling to Switzerland.... or Sweden.... on a long layover between airports, my guide(?) & I had to take a boat across a body of arctic water. The boat only needed to go a short way to the land (which would lead to Zurich... or Malmö (???)) but we were still provided these odd sleeping positions to rest in during the ride. They told me my pack-style hiking pack was a unique style actually called a "yevin," & that I would have to go below deck with it. Down there,the passengers were all sleeping along these wooden slats that went up the inner walls of the boat like massive human-sized magazine racks or something. The deckhands left out some blankets & matts to unroll into the racks & ppl were lining up, head-to-feet. Some passengers got naked. We set sail. 
+<br><br>
+The trip was quick across the icy water but during it I was fed a foam-like sourdough meal, of which I ate a huge portion of and even in sleep could really taste the sourness............
+<br>
+.....<br>
+then I was in my mind's eye, visualizing Mikel Arteta's house in London, but it was dry like Dubai, until I started to recognize some of the buildings & started to wonder if it was actually New York. Then the building was the one that I thought it was: The Empire State Building, and behind it, Central Park (sort of). Who did I find on the top of the Empire State? Adam! Adam and his nephew taking selfies. 
+<br><br>
+We arrived in Zurich (i guess) and I remember ascending an escalator in a modern-looking terminal. 
+<br><br>
+The night before, my dreams were also very vivid and conversational. Main thing: in this dream world I had forgotten, then re-remembered that I had had a kid accidentally with one of our neighbors on the floor (!!) and then remembered too that part of my role as a parent was to only speak spanish to the kid, who was already fluent, and we had full-blown conversations in Spanish in the dream. Then neighbor and I were getting along pretty well, though we weren't together, and I couldn't remember how/when we had had sex in the first place and a sneaking suspicion crept in that the kid was born from immaculate conception (that I was still culpable for, somehow) and therefore, neighbor-mother was a saint. A divine entity. I couldn't even remember if we had ever been together in any capacity at all actually, but I began to think that we were pretty good parents. 
+`
+
+export const post61626 = `
+Jun 16 : 2026 ::
+<br><br>
+Knicks won the NBA finals and the world cup kicked off. Nothing gonna get done for weeks. 
+`
+export const post70126 = `
+July 1 or 2 : 2026:: 
+<br><br>
+Ear Inn reading with Mike and Funto and Harry Davies made this flyer which I love. 
+<br><br>
+${image(img70126.default, '100%')}<br>
+<br><br>
+...... last week put in full days in the studio-- THE STUDIO NOW, split down the middle, half-way between KIKO and I, meaning, double the space each (and dbl the expense!!)-- Painting the text on a new painting-- FINISHED. finally. 
+now I can "revise" through paints. <br>
+I have a lot of work to do still and honestly, I don't feel like being disciplined. It's been hard to focus. Summer energy: I basically just want to play footy + bike to the beach + hang out.<br>
+but, I have a lot of paintings to develop. <br>
+Recently, the way to sketch has been to write sonnets for the new piece and then paint them. It has been fun, funny, and sketchy. more poems as a result, more painting more fastly------ though painting text is slow and painful.  
+`
