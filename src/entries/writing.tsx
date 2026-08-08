@@ -27,7 +27,8 @@ import * as img11926_1 from '../images/img11926_1.jpeg';
 import * as img11926_2 from '../images/img11926_2.jpeg';
 import * as img11926_3 from '../images/img11926_3.jpeg';
 import * as img11926_4 from '../images/img11926_4.jpeg';
-
+import * as img5023 from '../images/img5023.jpeg';
+import * as img101325 from '../images/img101325.jpg';
 /*This is the image block
 When you want to add an image, paste in ${image(<IMAGE>.default, 400, 350)}
 
@@ -325,6 +326,58 @@ my first solo show in NYC opens today. I feel excited and grateful. excited to k
 <br>
 <br>
 ${image(ddddflyer.default, '100%')}
+`;
+
+export const post91225 = `
+Sept. 12, 2025 :: bout to be 13th. <br>
+friday (just before midnight)
+<br><br>
+Xin's asleep-- we had a date tn & it was nice! this italian joint in Bed Stuy. We didn't spend too much, about $125 incl. tip. 
+<br><br>
+Turns out, the opening day would be eventful for several reasons, not least of all Charlie Kirk was assassinated. <br>
+Outside the after party at Asia Roma, between shifts at karaoke, somebody pulled out the video -- YIKES -- and <br>
+once we broke the seal, it kept coming up. Well... the night was memorable.<br><br>
+
+<a target="_blank" href="http://docs.google.com/gview?url=https://raw.githubusercontent.com/AdiBale/adibale-site/main/src/entries/src/entries/DeclineInReadingPreview.pdf">
+${image(img5023.default, '60%')}</a>
+`;
+
+export const post92525 = `
+Thursday, sept. 25. 2025 :: 
+<br><br>
+ESTÁ LA NOCHE entonces, escucho la música del Atahualpa Yupanqui. Calma. <br>
+Calm. <br>
+Xin on the couch knitting & watching a series w/ headphones in— oh, now she's moving around.
+We both been waking up early recently; me cause of MOMA PS1 days. it's nearly time to get in bed and read. 
+<br><br>
+I think time away from the studio is good... I need stretcher bars anyway & gesso & materials in general. I feel relaxed, then again, I'm not sure this distance is also reflective. I feel good about the show so I feel good about the show. If I think about it, I feel aware of some of the threads I need to pick up and carry forward. It's a good thing I guess that I also don't know how to handle the 2 pieces up on the wall of my studio now. Calling that a good thing... 
+<br><br>
+I still see the work in my head to come. The successly thing is that these pieces actually DO dissolve that conceptual division between text & image—— it's clear, especially hearing from how people read them. "Read." My head though is in this Bolaño class & in spanish. so here estoy-- hola. 
+`;
+
+export const post100725 = `
+..... Oct. 7 :: 2025 ....<br>
+show closing this weekend. Got the poets on board (!) to close it out <3 <br><br>
+${image(img101325.default, '100%')}
+`;
+
+export const post101325 = `
+Oct. 13 : 2025 -- 9:45pm 
+<br><br>
+Tonight frustrated—— too drunk all weekend and now can't think—— work at PS1 past few days also drained me and I can't think... <br>
+......<br>
+............................as I go back and re-avow— <br>
+the improved sense of what works / what worked has gotta show. In a way, it feels like THE DECLINE IN READING, the whole show, was a roadmap with every piece behaving like a template that requires (or suggests) further sequencing. SEQUENCE as opposed to SERIES. Why does "sequence" sound better to me? Because of the "plug-in" implication? Modus + constraint sitting on a graph being budged against a factor. A factory. 
+`;
+
+export const post102825 = `
+Tuesday, Oct. 28 :: 2025 : noon
+<br><br>
+I had a dry cough (mild) yesterday and slept like shit. I had vivid dreams though. Night before too— but last night was also captivating, or magnetic, and focusing, as if I was really seeing what I was seeing in the dream. I was straining my eyes, but was asleep. Sort of. 
+<br><br>
+I was hired at a local café/bistro on an island in the Mediterranean. It was largely french speaking but I think I was aware of a larger Italian or Maltese context, or perhaps, not Italian but specifically Roman empire Roman, or smthing. The café was old, wood, and dark. inside, though homey and still attractive, The other servers were very experienced and knew I would only be there temporarily but they didn't care— they needed help. Was it NYE?? In french I explained that I hadn't worked in food service in a very long time. They didn't care. I simply mimicked what I saw the other busboys doing. Tourists were talkative and consistent. Outside the café was a stoney khaki island rock with marble boulders staggered up the hillside, halved columns and wooden scaffolding around the façade of some other stone monument. It was a tourist spot and i was just passing through but I had more time on the island. For some reason I had this feeling Jeanne worked there and got me in. Was I staying with her somewhere? 
+<br><br>
+At one point during a lull, I stood by the doorway, or the open window, and watched a procession of figures step out of the ruins and file past us in a procession. They were huge and I still can't decide if they were more animal than human. They were each adorned like gladiators clad in ornate armors with weapons and masks that were blurred— like, physically blurred— and therefore confused, or extended, or glitched the limits of their bodies. A gorilla-man followed by a tall snaking soldier, followed by harmonizing cohort of pointy slugs, and caboosed by a sort of centaur, but huge, and the horse portion essentially, globular with muscle. Body builders. As they passed by me, though they filled in the panorama with their massive, hulking forms, I could make out little wedges of sky behind them which was visible, curving around their shoulders, and in the distance,  a veiny sky cropped through a portico of yellowy marble. Jagged white clouds were moving through the dark gray and purpley air; but their sky, which was so shaded dark blue, was not an obstruction of sun, nor was it night. The sky emitted the light of a blue day with zigzaggy white clouds like a chain of bats. The gray was also shifting— it was becoming almost pink. I was aware of more gladiators in my peripherals filing past the café onto the sandy streets— and I was so enthralled by the sky. It was so real, yet unbelievable, I thought I could understand more clearly than ever the spell of representation; of copy. or bootleg. The deep dedication to nature and wanting to picture it, exactly as that and I determined that if I stayed on this island— which is to say Italy, or Malta, or Corsica, etc.  I would happily become a landscape painter. Nothing else. 
 `;
 
 export const post11926 = `
