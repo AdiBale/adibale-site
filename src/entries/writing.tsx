@@ -225,7 +225,7 @@ ${image(img1024.default, '100%')}
 Acrylic, mixed-meida (including my poem "The Building," notebook pages, energy bill, rent statement, calligraphy paper, and sketch of Palmer Hayden's "Nous Quatre à Paris" from 1930,) and oil on wood panel. 30 x 40 inches. 2024.
 `;
 
-export const post020224 =`
+export const post020224 = `
 La Ciudad de México -  2 - 10 de febrero 
 <br>
 <br>
@@ -306,7 +306,7 @@ Honestly, it's a dream come true to contribute to the legacy of Martin Wong. Mi 
 <br>
 <br>
 ${image(img032625.default, '100%')}
-`
+`;
 
 
 export const post91025 = `
@@ -317,7 +317,7 @@ my first solo show in NYC opens today. I feel excited and grateful. excited to k
 <br>
 <br>
 ${image(ddddflyer.default, '100%')}
-`
+`;
 
 export const post21426 = `
 sun, Feb. 14 :: 2026 ::  [bout to be monday, feb. 15 : 2026]
@@ -326,7 +326,7 @@ Was 3 days-ish working on new poems for Eva, partly adapting from thread of poem
 ${image(img21426_1.default, '100%')}<br>
 ${image(img21426_2.default, '100%')}<br>
 ${image(img21426_3.default, '100%')}
-`
+`;
 
 export const post32606 = `
 march 26 : 2026 :: just before midnight, in bed : 
@@ -341,7 +341,7 @@ then, my thoughts almost totally quiet down and my attention to anything goes ou
 The following hours are a toss-up but generally I have an energy rebound going into the end of the work day and then it depends on where I go next. If I go straight home, my mind relaxes— everything relaxes; my body fatigued— and I find myself in a state of distraction/ aimlessness for hours possibly. Cooking dinner will likely be the only productive thing I do during this time. I'll go on instagram.com, pick up a book (and not read it), watch soccer highlights on youtube.com; talk to Xin. Typically I won't have an attention/motivation rebound until 10pmish, which is tough because I need to be going to sleep around 11:30ish to wake up at 6:30— but that last hour of the night can be good. 
 <br><br>
 If, however, I go straight to the studio right from PS1, then I have a higher chance of keeping the day going, the momentum going, and apply myself to something in the studio. I can slot my body back into a working mode and go with the flow of painting. maybe.
-`
+`;
 
 export const post52226 = `
 5.22.::2026 ...........
@@ -358,13 +358,13 @@ then I was in my mind's eye, visualizing Mikel Arteta's house in London, but it 
 We arrived in Zurich (i guess) and I remember ascending an escalator in a modern-looking terminal. 
 <br><br>
 The night before, my dreams were also very vivid and conversational. Main thing: in this dream world I had forgotten, then re-remembered that I had had a kid accidentally with one of our neighbors on the floor (!!) and then remembered too that part of my role as a parent was to only speak spanish to the kid, who was already fluent, and we had full-blown conversations in Spanish in the dream. Then neighbor and I were getting along pretty well, though we weren't together, and I couldn't remember how/when we had had sex in the first place and a sneaking suspicion crept in that the kid was born from immaculate conception (that I was still culpable for, somehow) and therefore, neighbor-mother was a saint. A divine entity. I couldn't even remember if we had ever been together in any capacity at all actually, but I began to think that we were pretty good parents. 
-`
+`;
 
 export const post61626 = `
 Jun 16 : 2026 ::
 <br><br>
 Knicks won the NBA finals and the world cup kicked off. Nothing gonna get done for weeks. 
-`
+`;
 export const post70126 = `
 July 1 or 2 : 2026:: 
 <br><br>
@@ -377,4 +377,4 @@ now I can "revise" through paints. <br>
 I have a lot of work to do still and honestly, I don't feel like being disciplined. It's been hard to focus. Summer energy: I basically just want to play footy + bike to the beach + hang out.<br>
 but, I have a lot of paintings to develop. <br>
 Recently, the way to sketch has been to write sonnets for the new piece and then paint them. It has been fun, funny, and sketchy. more poems as a result, more painting more fastly------ though painting text is slow and painful.  
-`
+`;
