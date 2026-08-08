@@ -146,62 +146,62 @@ const IndexPage: React.FC<PageProps> = () => {
 
   const links = (<TopLinksDiv><a target="_blank" href="https://www.instagram.com/addison_bale/">Paintings, etc.</a><a target="_blank" href="http://docs.google.com/gview?url=https://raw.githubusercontent.com/AdiBale/adibale-site/main/src/entries/addisonCV_1.pdf">CV</a></TopLinksDiv>)
   const intro = (<div>Welcome ✎ <br/>
-this site is a record of art &
-writing by....... Addison Bale 
-(me) :]<br/><br/>
-Here is where I update : b.
-1994 in NYC and in NYC still, 
-readingpoetry aloud, to myself, 
-and in the studio where people
-visit and I am painting. 
-<br/><br/>
-More and more so, the act of 
-painting is a way to generate a 
-sonnet or 2. I do it to paint it, and 
-thereby, roleplay a monkish scribe
-in the cove, transcribing my own
-poems or half-poems in progress. 
-<br/><br/>
-So much life comes through it: I 
-don't discern the good from the bad
-of the poem/good from the bad of 
-the painting. I mean, subject to 
-subject, style to style. Art here is not
-concerned with style. I like it to be 
-indefinite, because that's how it
-feels to me: uncertain but ongoing. 
-It's a way to be translating between
-the languages always, 
-and I mean that literally. (I also
-translate.) Spanish is gonna just 
-slip in here from time to time. Mb 
-french too, mb chinese if I keep 
-it up. Mb tagalog if I start, mb 
-arabic if I start. Mb portuguese 
-I would like, one day. 
-<br/><br/>
-Click on my email to reach out: <a href="mailto:sayhey.adi@gmail.com">sayhey.adi@gmail.com</a>
+    this site is a record of art &
+    writing by....... Addison Bale 
+    (me) :]<br/><br/>
+    Here is where I update : b.
+    1994 in NYC and in NYC still, 
+    readingpoetry aloud, to myself, 
+    and in the studio where people
+    visit and I am painting. 
+    <br/><br/>
+    More and more so, the act of 
+    painting is a way to generate a 
+    sonnet or 2. I do it to paint it, and 
+    thereby, roleplay a monkish scribe
+    in the cove, transcribing my own
+    poems or half-poems in progress. 
+    <br/><br/>
+    So much life comes through it: I 
+    don't discern the good from the bad
+    of the poem/good from the bad of 
+    the painting. I mean, subject to 
+    subject, style to style. Art here is not
+    concerned with style. I like it to be 
+    indefinite, because that's how it
+    feels to me: uncertain but ongoing. 
+    It's a way to be translating between
+    the languages always, 
+    and I mean that literally. (I also
+    translate.) Spanish is gonna just 
+    slip in here from time to time. Mb 
+    french too, mb chinese if I keep 
+    it up. Mb tagalog if I start, mb 
+    arabic if I start. Mb portuguese 
+    I would like, one day. 
+    <br/><br/>
+    Click on my email to reach out: <a href="mailto:sayhey.adi@gmail.com">sayhey.adi@gmail.com</a>
     <br/>
-                  <a target="_blank" href="https://www.instagram.com/addison_bale/">@addison_bale</a>
-
-<br/><br/>
--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
-<br/><br/>
-"All of my father's friends were hunters 
-and he loved them dearly. He was the 
-first to put a rifle in my hand, when I was 
-fifteen, and he taught me how to pull the 
-trigger. I shot a stone and the bird flew 
-away. Why should poets kills birds? Poets 
-should kill cement." - <i>Descent into the 
-Water: Palestinian Notes from Arab Exile, </i>
-Mu'in Basisu (trans. Saleh Omar)
-<br/><br/>
-“If painting has the built-in ability to 
-reinvent itself. If it is like yogurt then let’s 
-pass on the culture.
-Nature is digital.” <i>- Notes from the Woodshed, Jack Whitten</i>
-  </div>);
+    <a target="_blank" href="https://www.instagram.com/addison_bale/">@addison_bale</a>
+    <br/><br/>
+    -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+    <br/><br/>
+    "All of my father's friends were hunters 
+    and he loved them dearly. He was the 
+    first to put a rifle in my hand, when I was 
+    fifteen, and he taught me how to pull the 
+    trigger. I shot a stone and the bird flew 
+    away. Why should poets kills birds? Poets 
+    should kill cement." - <i>Descent into the 
+    Water: Palestinian Notes from Arab Exile, </i>
+    Mu'in Basisu (trans. Saleh Omar)
+    <br/><br/>
+    “If painting has the built-in ability to 
+    reinvent itself. If it is like yogurt then let’s 
+    pass on the culture.
+    Nature is digital.” <i>- Notes from the Woodshed, Jack Whitten</i>
+    </div>
+    );
 
   return (
     <main style={pageStyles}>

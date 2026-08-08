@@ -19,10 +19,14 @@ import * as install_wall from '../images/install_wall.jpg';
 import * as collages610 from '../images/collages6&10.jpg';
 import * as img032625 from '../images/img032625.png';
 import * as ddddflyer from '../images/DDDDflyer.jpg';
-import * as img70126 from '../images/img70126.JPG';
-import * as img21426_1 from '../images/img21426_1.JPG';
-import * as img21426_2 from '../images/img21426_2.JPG';
-import * as img21426_3 from '../images/img21426_3.JPG';
+import * as img70126 from '../images/img70126.jpeg';
+import * as img21426_1 from '../images/img21426_1.jpeg';
+import * as img21426_2 from '../images/img21426_2.jpeg';
+import * as img21426_3 from '../images/img21426_3.jpeg';
+import * as img11926_1 from '../images/img11926_1.jpeg';
+import * as img11926_2 from '../images/img11926_2.jpeg';
+import * as img11926_3 from '../images/img11926_3.jpeg';
+import * as img11926_4 from '../images/img11926_4.jpeg';
 
 /*This is the image block
 When you want to add an image, paste in ${image(<IMAGE>.default, 400, 350)}
@@ -323,12 +327,33 @@ my first solo show in NYC opens today. I feel excited and grateful. excited to k
 ${image(ddddflyer.default, '100%')}
 `;
 
+export const post11926 = `
+Jan, 19 :: 2026 (!) a monday : 
+<br><br>
+My dear friend, the poet Stace Brandt, curated a group show titled Objects of Devotion at Distillery Gallery in Boston with 2 works of mine included. It opened Nov. 21 and ran into the new year.<br>
+The other artists in the show are Babisa Adumbre, Jon Doucette, Jamieson Edson, Lydia Kern, Gaby Schaab, and Virgilijs Tilks. <br>
+Thereafter, Stace put together a show catalogue with install shots and a written contribution from the artists. Here's me: 
+<br><br>
+${image(img11926_1.default, '100%')}<br>
+(w/ sculpture by Virgilijs Tilks in foreground)
+<br>
+<br>
+From the catalogue: <br>
+[ The two pieces included in "Objects of Devotion" are both working with writing material as an image source in the form of collage. By foregrounding my text materials, painting takes on this adjacent role which I began to think of as a process of shrining, or housing. What's in the house? Poetry, mostly. Everything might be in the house but all the materials are auxiliary to (and already within) poetry. The act of painting might be more shrine-like or more housing-like, depending on the work, though I think both are possible at once. In a way, they work towards a mutual dissolution into each other: the whole thing becomes a poem/the whole poems becomes a painting. These works in particular, made about 1 year apart from each other, express this ambition for discategorization, though as different stages. Paint itself is leveraged to evoke a setting and draft the collage imagery forward. Notes on the way to becoming poems are pasted onto paint, carried by it, but also trapped by it. 
+<br><br>
+There's no way the painting, as a representation of bricks or a style of abstract clean-up, can be separated from the context. I think New York City is where the poems are actually living. This is the biggest house, literally. I channel it (?). Handwriting moves across subway-tile walls which have been ripped up and reveal old silicone caulking along the masonry. There's my poem jittering on the 5 to a job that morning. The paintings are representational in this way. Even the shrine (if it is one,) or the house (if it is one,) is assembled with "bricks." Text adorns every sightline; city-living is the POV, inevitably. Poeming into the painting becomes, overall, a way to turn text into building material. ]
+<br><br>
+${image(img11926_2.default, '100%')}<br><br>
+${image(img11926_3.default, '100%')}<br><br>
+${image(img11926_4.default, '100%')}
+`;
+
 export const post21426 = `
 sun, Feb. 14 :: 2026 ::  [bout to be monday, feb. 15 : 2026]
 <br>
 Was 3 days-ish working on new poems for Eva, partly adapting from thread of poems had developed and then pulled from for the poem I wrote for Basie's new collection. That poem is called "Door to painterly." For Eva's reading, held yesterday in Nicola Vassell gallery with Eva, me, Penny Arcade, Ilka Scobie, and Moinque Erickson, I read 2 of Basie's poems on his behalf since he couldn't be there. Then I read these, regardless of finished or not finished: they were fresh: <br>
-${image(img21426_1.default, '100%')}<br>
-${image(img21426_2.default, '100%')}<br>
+${image(img21426_1.default, '100%')}<br><br>
+${image(img21426_2.default, '100%')}<br><br>
 ${image(img21426_3.default, '100%')}
 `;
 
@@ -369,14 +394,15 @@ Jun 16 : 2026 ::
 <br><br>
 Knicks won the NBA finals and the world cup kicked off. Nothing gonna get done for weeks. 
 `;
+
 export const post70126 = `
 July 1 or 2 : 2026:: 
 <br><br>
 Ear Inn reading with Mike and Funto and Harry Davies made this flyer which I love. 
 <br><br>
-${image(img70126.default, '100%')}<br>
+${image(img70126.default, '80%')}<br>
 <br><br>
-...... last week put in full days in the studio-- THE STUDIO NOW, split down the middle, half-way between KIKO and I, meaning, double the space each (and dbl the expense!!)-- Painting the text on a new painting-- FINISHED. finally. 
+...... last week put in full days in the studio-- THE STUDIO NOW, split down the middle, half-way between KIKO and I, meaning, double the space each (and dbl the expense!!)-- Painting the text on a new painting-- FINISHED. finally. <br>
 now I can "revise" through paints. <br>
 I have a lot of work to do still and honestly, I don't feel like being disciplined. It's been hard to focus. Summer energy: I basically just want to play footy + bike to the beach + hang out.<br>
 but, I have a lot of paintings to develop. <br>
