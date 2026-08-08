@@ -52,19 +52,19 @@ const postsData = {
     },
     {
       "date": 32606,
-      "post": post032606,
+      "post": post32606,
     },
     {
       "date": 52226,
-      "post": post052226,
+      "post": post52226,
     },
     {
       "date": 61626,
-      "post": post061626,
+      "post": post61626,
     },
     {
       "date": 70126,
-      "post": post070126,
+      "post": post70126,
     },
   ]
 }
