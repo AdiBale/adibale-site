@@ -29,6 +29,7 @@ import * as img11926_3 from '../images/img11926_3.jpeg';
 import * as img11926_4 from '../images/img11926_4.jpeg';
 import * as img5023 from '../images/img5023.jpeg';
 import * as img101325 from '../images/img101325.jpg';
+import * as img81726 from '../images/FourSeasons.jpg'
 /*This is the image block
 When you want to add an image, paste in ${image(<IMAGE>.default, 400, 350)}
 
@@ -460,4 +461,20 @@ now I can "revise" through paints. <br>
 I have a lot of work to do still and honestly, I don't feel like being disciplined. It's been hard to focus. Summer energy: I basically just want to play footy + bike to the beach + hang out.<br>
 but, I have a lot of paintings to develop. <br>
 Recently, the way to sketch has been to write sonnets for the new piece and then paint them. It has been fun, funny, and sketchy. more poems as a result, more painting more fastly------ though painting text is slow and painful.  
+`;
+
+export const post81726 = `
+Aug. 17/18 cusp of midnight 2026: <br>
+good nap today and cleaned this afternoon. <br>
+Dream during the nap was very crazy and hard to write down. There was a place with mist, my friend Julia and I put up somewhere, or on the run, or in cahoots with other friends, but our host, who's place was partly full of water (always some water) was also being rude and manipulative and we could tell their insecurities were like demons ruining his life, but we were becoming victims of it. And trapped. We debated the situation. Working theory was that he was attracted to one of us but couldn't voice it, and fearing rejection, became mean--OK-- I woke up thinking. My ego at work, asleep, and world-building evidently. <br>
+We had to trudge through a pond in the living room of butter walls. 
+<br><br>
+on another note<br>
+upcoming calendar: <br>
+<br><br>
+"Four Seasons" reading series at DDDD hosted by me. <br>
+First time, summer edition(!) and excited to host & hang out (at DDDD again). <br>
+here's the ad: <br>
+"Four Seasons reading series at DDDD is a platform for poetry in its myriad forms by artists in theirs. The performers are made up of those interdisciplinary writers whose practices transgress disciplines/mediums, and may be known for one thing more than another. At Four Seasons, they are invited to express that other thing."<br><br>
+${image(img81726.default, '80%')}
 `;
