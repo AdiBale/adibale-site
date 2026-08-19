@@ -15,7 +15,7 @@ const pageStyles = {
 const headerDivStyles = {
   display: "flex",
   flexDirection: "column",
-  fontSize: "18px",
+  fontSize: "16px",
   letterSpacing: "0.9px",
   lineHeight: 1,
 }
@@ -39,7 +39,7 @@ const PageContainer = styled.div`
 const Header = styled.div`
   color: #741B47;
   font-family: sans-serif;
-  font-size: 20px;
+  font-size: 16px;
   padding-top: 40px;
   height: calc(100vh - 50px);
   max-width: 310px;
